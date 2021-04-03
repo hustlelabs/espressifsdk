@@ -29,7 +29,7 @@
           "linux-arm64": {
             "sha256": "7ff8232932818e361c71997537cdcb890c49cc210e2af1a996bfc0700a9e7451",
             "size": 111738300,
-            "url": "https://github.com/hustlelabs/espressifsdk/releases/download/v0.1/xtensa-esp32-elf-gcc8_4_0-esp-2020r3-linux-arm64.tar.gz",
+            "url": "https://github.com/hustlelabs/espressifsdk/releases/download/v0.1/xtensa-esp32-elf-gcc8_4_0-esp-2020r3-linux-arm64.tar.gz"
           },
           "linux-armel": {
             "sha256": "6771e011dffa2438ef84ff3474538b4a69df8f9d4cfae3b3707ca31c782ed7db",
@@ -90,7 +90,7 @@
           "linux-arm64": {
             "sha256": "967e023aecbda7a256b9d94c352c30216b186cb3a483aac7d3dc1b6430fd1ad9",
             "size": 84258733,
-            "url": "https://github.com/hustlelabs/espressifsdk/releases/download/v0.1/xtensa-esp32s2-elf-gcc8_4_0-esp-2020r3-linux-arm64.tar.gz",
+            "url": "https://github.com/hustlelabs/espressifsdk/releases/download/v0.1/xtensa-esp32s2-elf-gcc8_4_0-esp-2020r3-linux-arm64.tar.gz"
           },
           "linux-armel": {
             "sha256": "6c1efec4c7829202279388ccb388e8a17a34464bc351d677c4f04d95ea4b4ce0",
@@ -158,7 +158,7 @@
           "linux-arm64": {
             "sha256": "5eb8ce45153cd5b79c8d0a12649967c0f5bd82dc0a0c05d63a357454a7cd6a8a",
             "size": 9270749,
-            "url": "https://github.com/hustlelabs/espressifsdk/releases/download/v0.1/binutils-esp32ulp-linux-arm64-2.28.51-esp-20191205.tar.gz",
+            "url": "https://github.com/hustlelabs/espressifsdk/releases/download/v0.1/binutils-esp32ulp-linux-arm64-2.28.51-esp-20191205.tar.gz"
           },
           "linux-armel": {
             "sha256": "88967c086a6e71834282d9ae05841ee74dae1815f27807b25cdd3f7775a47101",
@@ -221,7 +221,7 @@
           "linux-arm64": {
             "sha256": "08f5cc3ed61970094aea6546f658145f5a9b7892f8bc52dacc9c5518ab0c65ec",
             "size": 9252922,
-            "url": "https://github.com/hustlelabs/espressifsdk/releases/download/v0.1/binutils-esp32s2ulp-linux-arm64-2.28.51-esp-20191205.tar.gz",
+            "url": "https://github.com/hustlelabs/espressifsdk/releases/download/v0.1/binutils-esp32s2ulp-linux-arm64-2.28.51-esp-20191205.tar.gz"
           },
           "linux-armel": {
             "sha256": "893b213c8f716d455a6efb2b08b6cf1bc34d08b78ee19c31e82ac44b1b45417e",
@@ -352,7 +352,7 @@
           "linux-arm64": {
             "sha256": "58f5f434bc6f4327f8537c7659234b945681a28535751d097f95222e2a6a577c",
             "size": 7137273,
-            "url": "https://github.com/hustlelabs/espressifsdk/releases/download/v0.1/openocd-esp32-arm64-0.10.0-esp32-20200709.tar.gz",
+            "url": "https://github.com/hustlelabs/espressifsdk/releases/download/v0.1/openocd-esp32-arm64-0.10.0-esp32-20200709.tar.gz"
           },
           "linux-armel": {
             "sha256": "b2cc6b7837f3cac23a752a8c43c6e0b19701ee0ec1eca4896833f0e82746062e",
