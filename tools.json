@@ -13,6 +13,9 @@
       "install": "always",
       "license": "GPL-3.0-with-GCC-exception",
       "name": "xtensa-esp32-elf",
+      "supported_targets": [
+        "esp32"
+      ],
       "version_cmd": [
         "xtensa-esp32-elf-gcc",
         "--version"
